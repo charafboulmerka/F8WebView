@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group                android:id="@+id/head_nav"
+
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_refresh"
+            android:icon="@drawable/ic_refresh"
+            android:title="تحديث الصفحة" />
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="الرئيسية" />
+
+
+        <item
+        android:id="@+id/nav_privacy"
+        android:icon="@drawable/ic_security"
+        android:title="الشروط و الخصوصية" />
+
+        <item
+            android:id="@+id/nav_rate"
+            android:icon="@drawable/ic_star_black_24dp"
+            android:title="قيم التطبيق" />
+
+        <item
+            android:id="@+id/nav_share"
+            android:icon="@drawable/ic_share"
+            android:title="مشاركة التطبيق" />
+
+
+
+        <item
+            android:id="@+id/nav_close"
+            android:icon="@drawable/ic_power"
+            android:title="إغلاق التطبيق" />
+
+    <!--
+
+<item
+    android:id="@+id/nav_inbox"
+    android:icon="@drawable/ic_home"
+    android:title="الرسائل" />
+
+<item
+    android:id="@+id/nav_fav_inbox"
+    android:icon="@drawable/ic_home"
+    android:title="الرسائل المفضلة" />
+
+<item
+    android:id="@+id/nav_signip"
+    android:icon="@drawable/ic_001_add_user"
+    android:title="إنشاء حساب" />
+<item
+    android:id="@+id/nav_login"
+    android:icon="@drawable/ic_002_enter"
+    android:title="الدخول" />
+<item
+    android:id="@+id/nav_settings"
+    android:icon="@drawable/ic_settings"
+    android:title="الإعدادات" />
+<item
+    android:id="@+id/nav_about_us"
+    android:icon="@drawable/ic_003_name"
+    android:title="عن بجاحة" />
+
+<item
+    android:id="@+id/nav_blog"
+    android:icon="@drawable/ic_005_interface"
+    android:title="الى مدونة بجاحة" />
+
+
+<item
+    android:id="@+id/nav_contact_us"
+    android:icon="@drawable/ic_004_call"
+    android:title="اتصل بنا" />
+    -->
+
+        <!--
+    </group>
+
+
+           <group
+               android:id="@+id/bottom_nav"
+               android:checkableBehavior="none">
+
+
+           </group>
+-->
+
+
+    </group>
+</menu>

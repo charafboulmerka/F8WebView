@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Sham Talk</string>
+
+    <string name="web_url">https://www.shamtalk.net/</string>
+    <string name="block_app"></string>
+
+    <string name="admobID">ca-app-pub-7909187450334965~7010541650</string>
+    <string name="admobFull">ca-app-pub-7909187450334965/6599478111</string>
+
+    <!--
+    <string name="admobID">ca-app-pub-9546978073063433~8975206507</string>
+    <string name="admobBanner">ca-app-pub-5167234988152277/78582829454</string>
+    <string name="admobFull">ca-app-pub-5167234988152277/78582829454</string>
+
+    <string name="facebook_app_id">553472335351591</string>
+
+
+    <string name="admobBanner">ca-app-pub-5167234988152277/78582829454</string>
+    -->
+
+
+    <string name="title_activity_navigation">NavigationActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+
+</resources>
+
