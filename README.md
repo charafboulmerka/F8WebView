@@ -34,18 +34,22 @@
 
 ---
 
-📄 License
-This project is free and open-source. Use it for personal or commercial projects.
 
+## 📄 License
 
+This project is free to use and modify under the **MIT License**.
 
-👤 Author
-Charaf Boulmerka
-Android & Web Developer
-📧 charaf.boulmerka25@gmail.com
+---
 
+## 👤 Author
 
+**Charaf Boulmerka**  
+Android & Web Developer  
+📧 charaf.boulmerka25@gmail.com  
 
-🤝 Contributions
-Pull requests, suggestions, and issues are welcome!
-If you like this project, consider giving it a ⭐ on GitHub.
+---
+
+## 🤝 Contributions
+
+Feel free to **fork** the project, **open issues**, or **send pull requests**.  
+If you find this useful, give it a ⭐ on GitHub!
