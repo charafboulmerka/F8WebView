@@ -32,18 +32,20 @@
 4. change the app name, website url, onesignal & admob IDs (optional)
 
 
+---
 
-
-
-
-
-
-
-
-
-
-
-
+📄 License
 This project is free and open-source. Use it for personal or commercial projects.
 
 
+
+👤 Author
+Charaf Boulmerka
+Android & Web Developer
+📧 charaf.boulmerka25@gmail.com
+
+
+
+🤝 Contributions
+Pull requests, suggestions, and issues are welcome!
+If you like this project, consider giving it a ⭐ on GitHub.
